@@ -1,1 +1,2 @@
 linha 1 do meu arquivo
+linha 2 criada na branch1
